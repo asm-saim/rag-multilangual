@@ -1,0 +1,10 @@
+
+fastapi
+uvicorn
+PyMuPDF
+nltk
+chromadb
+sentence-transformers
+ollama
+tqdm
+langdetect
